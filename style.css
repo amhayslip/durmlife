@@ -85,21 +85,6 @@ section {
 .row {
   clear: both;
 }
-/*
-.container {
-  padding: 0px 15px 0px 15px;
-}
-
-.row:before {
-  display: table;
-  content: "";
-}
-
-.row:after {
-  display: table;
-  content: "";
-  clear: both;
-}*/
 
 .column-80 {
   width: 80%;
@@ -118,28 +103,6 @@ section {
     width: 100%;
   }
 }
-
-/*.post {
-  background-color: #fff;
-  margin: 20px;
-}
-
-.side-bar {
-  background-color: #fff;
-  margin: 20px;
-}
-
-.side-bar-header {
-  padding: 10px;
-}
-
-.side-bar-content {
-  padding: 10px;
-}
-
-.post-content img {
-  width: 100%;
-}*/
 
 .drinks-hero {
   width: 100%;
