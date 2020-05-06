@@ -31,7 +31,7 @@ nav li a {
 
 
 .hero {
-  background: url(https://www.projectshift.io/wp-content/uploads/2017/12/TIS4202Panorama_hdr_tonemapped2013IceFactoryATC-Scott_Faber_Photography.jpg) no-repeat center fixed;
+  background: url(https://www.projectshift.info/wp-content/uploads/2017/12/TIS4202Panorama_hdr_tonemapped2013IceFactoryATC-Scott_Faber_Photography.jpg) no-repeat center fixed;
   background-size: cover;
   height: 700px;
 }
@@ -78,60 +78,16 @@ section {
   width: 33.3333333%;
 }
 
-/*.column-inner {
+.column-inner {
   padding: 20px;
-}*/
+}
 
 .row {
   clear: both;
-}
-
-.column-80 {
-  width: 80%;
-  float: left;
-  height: 500px;
-}
-
-.column-20 {
-  width: 20%;
-  float: left;
-  height: 500px;
 }
 
 @media (max-width: 700px) {
   .column {
     width: 100%;
   }
-}
-
-.drinks-hero {
-  width: 100%;
-}
-
-.drinks-hero-title {
-  background-color: #fff;
-  padding: 10px 0 10px 0;
-}
-
-.drinks-hero-name {
-  background-color: #fff;
-  padding: 10px 0 10px 0;
-  margin: 0;
-}
-
-.drinks-hero-name h3 {
-  margin: 0;
-}
-
-.drinks-thumb {
-  width: 100%;
-}
-
-.drinks-thumbs {
-  background-color: #fff;
-  padding: 10px;
-}
-
-.column-inner-drinks {
-  padding: 10px;
 }
